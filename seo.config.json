@@ -1,6 +1,6 @@
 {
   "_README": "One-time site settings (NOT your daily content). Daily content, links and e-mail are edited ONLY in index.html (see the top of that file). Here you only set siteUrl (your public website address) and SEO texts once. Then run: node tools/apply-seo.mjs (or push to GitHub and the Pages workflow runs it).",
-  "siteUrl": "REPLACE_WITH_PUBLIC_SITE_URL (example: https://evilxmody.github.io/mo.media  or  https://evilxmody.github.io/  or your custom domain)",
+  "siteUrl": "https://evilxmody.github.io/mo.media/",
   "brandName": "MO MEDIA",
   "personName": "Mohamed Elsayed",
   "jobTitle": "Video Editor & Photographer",
