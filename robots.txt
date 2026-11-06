@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Sitemap line is added once siteUrl is set in seo.config.json
